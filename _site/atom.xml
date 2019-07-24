@@ -4,7 +4,7 @@
  <title>The DevOps Ninja</title>
  <link href="https:thedevops.ninja/atom.xml" rel="self"/>
  <link href="https:thedevops.ninja/"/>
- <updated>2019-07-24T20:26:44-03:00</updated>
+ <updated>2019-07-24T20:48:33-03:00</updated>
  <id>https:thedevops.ninja</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>init</title>
-   <link href="https:thedevops.ninja/2019/07/24/init/"/>
+   <link href="https:thedevops.ninja/blog/init/"/>
    <updated>2019-07-24T00:00:00-03:00</updated>
-   <id>https:thedevops.ninja/2019/07/24/init</id>
+   <id>https:thedevops.ninja/blog/init</id>
    <content type="html">&lt;p&gt;I cleared AWS Certified Cloud Practitioner today. This marks a more formal entry into the world of Cloud Computing.&lt;/p&gt;
 
 &lt;p&gt;With this website, I intend to share my learning journey, experiences and hacks.&lt;/p&gt;
@@ -25,9 +25,9 @@
  
  <entry>
    <title>Introducing Hyde</title>
-   <link href="https:thedevops.ninja/2013/12/28/introducing-hyde/"/>
+   <link href="https:thedevops.ninja/blog/introducing-hyde/"/>
    <updated>2013-12-28T00:00:00-04:00</updated>
-   <id>https:thedevops.ninja/2013/12/28/introducing-hyde</id>
+   <id>https:thedevops.ninja/blog/introducing-hyde</id>
    <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -69,9 +69,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="https:thedevops.ninja/2012/02/06/whats-jekyll/"/>
+   <link href="https:thedevops.ninja/blog/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00-04:00</updated>
-   <id>https:thedevops.ninja/2012/02/06/whats-jekyll</id>
+   <id>https:thedevops.ninja/blog/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
